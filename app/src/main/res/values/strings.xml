@@ -10,4 +10,11 @@
     <string name="heading_10km">10km</string>
     <string name="heading_half_marathon">Half marathon</string>
     <string name="heading_marathon">Marathon</string>
+    <string name="cycling_image">Cycling Image</string>
+    <string name="heading_longest_ride">Longest ride</string>
+    <string name="heading_biggest_climb">Biggest climb</string>
+    <string name="heading_best_speed">Best speed</string>
+    <string name="reset_running_records">Reset running records</string>
+    <string name="reset_cycling_records">Reset cycling records</string>
+    <string name="reset_all_records">Reset all records</string>
 </resources>
